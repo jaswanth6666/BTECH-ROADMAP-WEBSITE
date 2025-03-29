@@ -1,0 +1,85 @@
+/* Dark theme for the dropdown menu */
+.navbar-dark .navbar-nav .nav-link {
+  color: rgba(255, 255, 255, 0.75); /* Light text color */
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: rgba(255, 255, 255, 1); /* Brighter text color on hover */
+}
+
+/* Dark theme for the dropdown toggle */
+.navbar-dark .navbar-nav .nav-dropdown .dropdown-toggle {
+  color: rgba(255, 255, 255, 0.75); /* Light text color */
+}
+
+.navbar-dark .navbar-nav .nav-dropdown .dropdown-toggle:hover {
+  color: rgba(255, 255, 255, 1); /* Brighter text color on hover */
+}
+
+/* Dark theme for the dropdown menu */
+.navbar-dark .dropdown-menu {
+  background-color: #343a40; /* Dark background color */
+  border: 1px solid rgba(255, 255, 255, 0.1); /* Light border */
+}
+
+/* Dark theme for dropdown items */
+.navbar-dark .dropdown-item {
+  color: rgba(255, 255, 255, 0.75); /* Light text color */
+}
+
+.navbar-dark .dropdown-item:hover,
+.navbar-dark .dropdown-item:focus {
+  background-color: #495057; /* Darker background on hover/focus */
+  color: rgba(255, 255, 255, 1); /* Brighter text color */
+}
+
+/* Dark theme for dropdown dividers */
+.navbar-dark .dropdown-divider {
+  border-top: 1px solid rgba(255, 255, 255, 0.1); /* Light divider */
+}
+
+/* Transparent navbar */
+.transparent-navbar {
+  background-color: transparent !important; /* Make the background transparent */
+  border: none !important; /* Remove any borders */
+  box-shadow: none !important; /* Remove any shadows */
+  transition: background-color 0.3s ease; /* Smooth transition */
+}
+
+/* Add a solid background when scrolling */
+.transparent-navbar.scrolled {
+  background-color: #343a40 !important; /* Dark background when scrolled */
+}
+
+/* Navbar links */
+.transparent-navbar .nav-link {
+  color: rgba(255, 255, 255, 0.75) !important; /* Light text color */
+}
+
+.transparent-navbar .nav-link:hover {
+  color: rgba(255, 255, 255, 1) !important; /* Brighter text color on hover */
+}
+
+/* Navbar brand */
+.transparent-navbar .navbar-brand {
+  color: rgba(255, 255, 255, 0.75) !important; /* Light text color */
+}
+
+.transparent-navbar .navbar-brand:hover {
+  color: rgba(255, 255, 255, 1) !important; /* Brighter text color on hover */
+}
+
+/* Dropdown menu */
+.transparent-navbar .dropdown-menu {
+  background-color: #343a40; /* Dark background for dropdown */
+  border: 1px solid rgba(255, 255, 255, 0.1); /* Light border */
+}
+
+.transparent-navbar .dropdown-item {
+  color: rgba(255, 255, 255, 0.75) !important; /* Light text color */
+}
+
+.transparent-navbar .dropdown-item:hover {
+  background-color: #495057 !important; /* Darker background on hover */
+  color: rgba(255, 255, 255, 1) !important; /* Brighter text color */
+}

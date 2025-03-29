@@ -1,0 +1,169 @@
+[
+    {
+      "name": "Computer Science and Engineering  ('CSE')",
+      "description": "Focuses on the design and development of computer systems and applications.",
+      "domains": [
+         ObjectId ('67d460da2930f3fe9cd32a72') , // Artificial Intelligence  ('AI') and Machine Learning  ('ML')
+         ObjectId ('67d460da2930f3fe9cd32a73') , // Data Science and Analytics
+         ObjectId ('67d460da2930f3fe9cd32a74') , // Big Data Technologies
+         ObjectId ('67d460da2930f3fe9cd32a75') , // Web Development  ('Frontend & Backend')
+         ObjectId ('67d460da2930f3fe9cd32a76') , // Mobile Application Development
+         ObjectId ('67d460da2930f3fe9cd32a77') , // Cloud Computing and Virtualization
+         ObjectId ('67d460da2930f3fe9cd32a78') , // Cybersecurity and Ethical Hacking
+         ObjectId ('67d460da2930f3fe9cd32a79') , // Blockchain Technology
+         ObjectId ('67d460da2930f3fe9cd32a7a') , // Internet of Things  ('IoT')
+         ObjectId ('67d460da2930f3fe9cd32a7b') , // Embedded Systems
+         ObjectId ('67d460da2930f3fe9cd32a7c') , // Database Management Systems  ('DBMS')
+         ObjectId ('67d460da2930f3fe9cd32a7d') , // Software Engineering and Development
+         ObjectId ('67d460da2930f3fe9cd32a7e') , // Game Development
+         ObjectId ('67d460da2930f3fe9cd32a7f') , // Human-Computer Interaction  ('HCI')
+         ObjectId ('67d460da2930f3fe9cd32a80') , // Natural Language Processing  ('NLP')
+         ObjectId ('67d460da2930f3fe9cd32a81') , // Computer Graphics and Visualization
+         ObjectId ('67d460da2930f3fe9cd32a82') , // Quantum Computing
+         ObjectId ('67d460da2930f3fe9cd32a83') , // Digital Image Processing
+         ObjectId ('67d460da2930f3fe9cd32a84') , // Computer Vision
+         ObjectId ('67d460da2930f3fe9cd32a85') , // Networking and Communication
+         ObjectId ('67d460da2930f3fe9cd32a86') , // Operating Systems
+         ObjectId ('67d460da2930f3fe9cd32a87') , // Distributed and Parallel Computing
+         ObjectId ('67d460da2930f3fe9cd32a88') , // Compiler Design
+         ObjectId ('67d460da2930f3fe9cd32a89') , // Information Retrieval Systems
+         ObjectId ('67d460da2930f3fe9cd32a8a') , // Computational Linguistics
+         ObjectId ('67d460da2930f3fe9cd32a8b') , // Simulation and Modeling
+         ObjectId ('67d460da2930f3fe9cd32a8c') , // DevOps and CI/CD
+         ObjectId ('67d460da2930f3fe9cd32a8d') , // Augmented and Virtual Reality  ('AR/VR')
+         ObjectId ('67d460da2930f3fe9cd32a8e') , // Digital Forensics
+         ObjectId ('67d460da2930f3fe9cd32a8f') , // System Programming
+         ObjectId ('67d460da2930f3fe9cd32a90') , // Software Quality Assurance and Testing
+         ObjectId ('67d460da2930f3fe9cd32a91') , // IT Infrastructure and Networking
+         ObjectId ('67d460da2930f3fe9cd32a92') , // Software Project Management
+         ObjectId ('67d460da2930f3fe9cd32a93')   // Computational Biology and Bioinformatics
+      ]
+    },
+    {
+      "name": "Electronics and Communication Engineering  ('ECE')",
+      "description": "Focuses on electronic devices, circuits, and communication systems.",
+      "domains": [
+         ObjectId ('67d4e1ef2930f3fe9cd32a94') , // Signal Processing  ('Digital and Analog')
+         ObjectId ('67d4e1ef2930f3fe9cd32a95') , // Telecommunication Engineering
+         ObjectId ('67d4e1ef2930f3fe9cd32a96') , // Wireless Communication and Networks
+         ObjectId ('67d4e1ef2930f3fe9cd32a97') , // Embedded Systems and VLSI Design
+         ObjectId ('67d4e1ef2930f3fe9cd32a98') , // Microelectronics and Nanoelectronics
+         ObjectId ('67d4e1ef2930f3fe9cd32a99') , // Digital System Design
+         ObjectId ('67d4e1ef2930f3fe9cd32a9a') , // Antenna and Wave Propagation
+         ObjectId ('67d4e1ef2930f3fe9cd32a9b') , // Satellite Communication
+         ObjectId ('67d4e1ef2930f3fe9cd32a9c') , // Optical Fiber Communication
+         ObjectId ('67d4e1ef2930f3fe9cd32a9d') , // Biomedical Signal Processing
+         ObjectId ('67d4e1ef2930f3fe9cd32a9e') , // Robotics and Automation
+         ObjectId ('67d4e1ef2930f3fe9cd32aa0') , // Radar and Navigation Systems
+         ObjectId ('67d4e1ef2930f3fe9cd32aa1') , // RF and Microwave Engineering
+         ObjectId ('67d4e1ef2930f3fe9cd32aa2') , // Analog and Mixed-Signal Processing
+         ObjectId ('67d4e1ef2930f3fe9cd32aa3') , // Power Electronics
+         ObjectId ('67d4e1ef2930f3fe9cd32aa4') , // Electromagnetic Field Theory
+         ObjectId ('67d4e1ef2930f3fe9cd32aa5') , // Photonic Devices and Systems
+         ObjectId ('67d4e1ef2930f3fe9cd32aa6') , // Electronic Instrumentation and Control
+         ObjectId ('67d4e1ef2930f3fe9cd32aa7') , // MEMS  ('Micro-Electro-Mechanical Systems')
+         ObjectId ('67d4e1ef2930f3fe9cd32aa8') , // Nanotechnology in Electronics
+         ObjectId ('67d4e1ef2930f3fe9cd32aa9') , // Smart Grid and Automation
+         ObjectId ('67d4e1ef2930f3fe9cd32aaa') , // Digital and Analog Communication
+         ObjectId ('67d4e1ef2930f3fe9cd32aab') , // Control Systems Engineering
+         ObjectId ('67d4e1ef2930f3fe9cd32aac') , // Speech and Audio Signal Processing
+         ObjectId ('67d4e1ef2930f3fe9cd32aad') , // Automotive Electronics
+         ObjectId ('67d4e1ef2930f3fe9cd32aae')   // Wearable and Flexible Electronics
+      ]
+    },
+    {
+      "name" :  "Electrical and Electronics Engineering  ('EEE')" ,
+      "description": "Focuses on electrical systems, electronics, and energy management.",
+      "domains": [
+         ObjectId ('67d4e4742930f3fe9cd32aaf') , // Power Systems and Power Electronics
+         ObjectId ('67d4e4742930f3fe9cd32ab0') , // Electrical Machines and Drives
+         ObjectId ('67d4e4742930f3fe9cd32ab1') , // Renewable Energy Systems
+         ObjectId ('67d4e4742930f3fe9cd32ab2') , // High Voltage Engineering
+         ObjectId ('67d4e4742930f3fe9cd32ab3') , // Power Distribution and Automation
+         ObjectId ('67d4e4742930f3fe9cd32ab4') , // Electric Vehicles and Smart Grids
+         ObjectId ('67d4e4742930f3fe9cd32ab5') , // Energy Management and Auditing
+         ObjectId ('67d4e4742930f3fe9cd32ab6') , // Industrial Automation and Control
+         ObjectId ('67d4e4742930f3fe9cd32ab7') , // Smart Grid Technology
+         ObjectId ('67d4e4742930f3fe9cd32ab8') , // Power Quality and Reliability
+         ObjectId ('67d4e4742930f3fe9cd32ab9') , // HVAC and HVDC Systems
+         ObjectId ('67d4e4742930f3fe9cd32aba') , // Electric Propulsion Systems
+         ObjectId ('67d4e4742930f3fe9cd32abb') , // Battery Management Systems  ('BMS')
+         ObjectId ('67d4e4742930f3fe9cd32abc') , // Robotics and Control Systems
+         ObjectId ('67d4e4742930f3fe9cd32abd') , // Instrumentation and Measurement
+         ObjectId ('67d4e4742930f3fe9cd32abe') , // Electrical Maintenance Engineering
+         ObjectId ('67d4e4742930f3fe9cd32abf') , // Electrical Safety and Standards
+         ObjectId ('67d4e4742930f3fe9cd32ac0') , // Energy Conservation Techniques
+         ObjectId ('67d4e4742930f3fe9cd32ac1') , // Signal and Power Integrity
+         ObjectId ('67d4e4742930f3fe9cd32ac2') , // Power Plant Engineering
+         ObjectId ('67d4e4742930f3fe9cd32ac3') , // Electrical CAD and Simulation
+         ObjectId ('67d4e4742930f3fe9cd32ac4') , // Magnetic Levitation Systems
+         ObjectId ('67d4e4742930f3fe9cd32ac5') , // Automation in Power Systems
+         ObjectId ('67d4e4742930f3fe9cd32ac6')   // Adaptive and Optimal Control Systems
+      ]
+    },
+    {
+      "name": "Mechanical Engineering",
+      "description": "Focuses on designing, analyzing, and manufacturing mechanical systems.",
+      "domains": [
+         ObjectId ('67d4e6922930f3fe9cd32ac7') , // Thermal Engineering
+         ObjectId ('67d4e6922930f3fe9cd32ac8') , // Fluid Mechanics and Hydraulic Machines
+         ObjectId ('67d4e6922930f3fe9cd32ac9') , // Automobile Engineering
+         ObjectId ('67d4e6922930f3fe9cd32aca') , // Manufacturing and Production Technology
+         ObjectId ('67d4e6922930f3fe9cd32acb') , // Mechatronics and Robotics
+         ObjectId ('67d4e6922930f3fe9cd32acc') , // Aerospace Engineering
+         ObjectId ('67d4e6922930f3fe9cd32acd') , // CAD/CAM  ('Computer-Aided Design/Manufacturing')
+         ObjectId ('67d4e6922930f3fe9cd32ace') , // Material Science and Metallurgy
+         ObjectId ('67d4e6922930f3fe9cd32acf') , // Welding Technology
+         ObjectId ('67d4e6922930f3fe9cd32ad0') , // Machine Design and Dynamics
+         ObjectId ('67d4e6922930f3fe9cd32ad1') , // Industrial Engineering and Management
+         ObjectId ('67d4e6922930f3fe9cd32ad2') , // Operations Research
+         ObjectId ('67d4e6922930f3fe9cd32ad3') , // Maintenance Engineering
+         ObjectId ('67d4e6922930f3fe9cd32ad4') , // Tribology  ('Friction, Lubrication, Wear')
+         ObjectId ('67d4e6922930f3fe9cd32ad5') , // Biomechanics
+         ObjectId ('67d4e6922930f3fe9cd32ad6') , // Renewable and Sustainable Energy
+         ObjectId ('67d4e6922930f3fe9cd32ad7') , // Heat Transfer and Combustion
+         ObjectId ('67d4e6922930f3fe9cd32ad8') , // Advanced Manufacturing Technologies
+         ObjectId ('67d4e6922930f3fe9cd32ad9') , // Additive Manufacturing  ('3D Printing')
+         ObjectId ('67d4e6922930f3fe9cd32ada') , // Automated Production Systems
+         ObjectId ('67d4e6922930f3fe9cd32adb') , // Tool and Die Design
+         ObjectId ('67d4e6922930f3fe9cd32adc') , // Precision Engineering
+         ObjectId ('67d4e6922930f3fe9cd32add') , // Finite Element Analysis  ('FEA')
+         ObjectId ('67d4e6922930f3fe9cd32ade') , // Piping and Pipeline Engineering
+         ObjectId ('67d4e6922930f3fe9cd32adf') , // Quality Assurance and Control
+         ObjectId ('67d4e6922930f3fe9cd32ae0') , // Smart Manufacturing  ('Industry 4.0')
+         ObjectId ('67d4e6922930f3fe9cd32ae1')   // HVAC and Refrigeration Systems
+      ]
+    },
+    {
+      "name": "Civil Engineering",
+      "description": "Focuses on designing and constructing infrastructure projects.",
+      "domains": [
+         ObjectId ('67d4e8402930f3fe9cd32ae2') , // Structural Engineering
+         ObjectId ('67d4e8402930f3fe9cd32ae3') , // Geotechnical Engineering
+         ObjectId ('67d4e8402930f3fe9cd32ae4') , // Transportation Engineering
+         ObjectId ('67d4e8402930f3fe9cd32ae5') , // Water Resources and Hydraulic Engineering
+         ObjectId ('67d4e8402930f3fe9cd32ae6') , // Environmental Engineering
+         ObjectId ('67d4e8402930f3fe9cd32ae7') , // Construction and Project Management
+         ObjectId ('67d4e8402930f3fe9cd32ae8') , // Surveying and Geomatics
+         ObjectId ('67d4e8402930f3fe9cd32ae9') , // Urban and Regional Planning
+         ObjectId ('67d4e8402930f3fe9cd32aea') , // Building Technology and Construction Materials
+         ObjectId ('67d4e8402930f3fe9cd32aeb') , // Bridge and Tunnel Engineering
+         ObjectId ('67d4e8402930f3fe9cd32aec') , // Smart Cities and Infrastructure
+         ObjectId ('67d4e8402930f3fe9cd32aed') , // Disaster Risk Management
+         ObjectId ('67d4e8402930f3fe9cd32aee') , // Structural Health Monitoring
+         ObjectId ('67d4e8402930f3fe9cd32aef') , // Soil Mechanics and Foundation Engineering
+         ObjectId ('67d4e8402930f3fe9cd32af0') , // Concrete Technology
+         ObjectId ('67d4e8402930f3fe9cd32af1') , // Remote Sensing and GIS
+         ObjectId ('67d4e8402930f3fe9cd32af2') , // Hydraulic Structures and Dams
+         ObjectId ('67d4e8402930f3fe9cd32af3') , // Highway and Pavement Engineering
+         ObjectId ('67d4e8402930f3fe9cd32af4') , // Traffic Engineering
+         ObjectId ('67d4e8402930f3fe9cd32af5') , // Coastal and Offshore Engineering
+         ObjectId ('67d4e8402930f3fe9cd32af6') , // Advanced Construction Techniques
+         ObjectId ('67d4e8402930f3fe9cd32af7') , // Retrofitting and Rehabilitation of Structures
+         ObjectId ('67d4e8402930f3fe9cd32af8') , // Earthquake Engineering and Seismic Design
+         ObjectId ('67d4e8402930f3fe9cd32af9') , // Green Building Technology
+         ObjectId ('67d4e8402930f3fe9cd32afa') , // Geoinformatics
+         ObjectId ('67d4e8402930f3fe9cd32afb')  // Urban Heat Island Mitigation
+      ]
+    }
+  ]

@@ -1,0 +1,435 @@
+[
+    {
+      "name": "Signal Processing (Digital and Analog)",
+      "description": "Signal processing involves analyzing, modifying, and synthesizing signals such as sound, images, and scientific measurements. It is used in applications like audio processing, image enhancement, and telecommunications.",
+      "flowchart": [
+        "Learn the basics of signals and systems (time-domain and frequency-domain analysis).",
+        "Study analog signal processing techniques (filters, amplifiers).",
+        "Learn digital signal processing (DSP) concepts (sampling, quantization).",
+        "Work on projects (e.g., audio filtering, image compression).",
+        "Explore advanced topics (wavelets, adaptive filtering, machine learning for signal processing)."
+      ],
+      "certifications": [
+        "IEEE Signal Processing Society Certification",
+        "MATLAB Certification for Signal Processing",
+        "Coursera Digital Signal Processing Specialization",
+        "Advanced Signal Processing Certification by edX"
+      ]
+    },
+    {
+      "name": "Telecommunication Engineering",
+      "description": "Telecommunication engineering focuses on designing and optimizing communication systems, including wired and wireless networks. It covers technologies like fiber optics, satellite communication, and 5G networks.",
+      "flowchart": [
+        "Learn networking fundamentals (OSI model, TCP/IP).",
+        "Study telecommunication systems (modulation, multiplexing, error correction).",
+        "Work on projects (e.g., VoIP systems, satellite communication).",
+        "Explore advanced topics (5G, optical communication, network security)."
+      ],
+      "certifications": [
+        "Cisco Certified Network Associate (CCNA)",
+        "CompTIA Network+",
+        "Telecommunications Certification by IEEE",
+        "5G Certification by Coursera"
+      ]
+    },
+    {
+      "name": "Wireless Communication and Networks",
+      "description": "Wireless communication involves designing and optimizing wireless systems and networks, including Wi-Fi, Bluetooth, and cellular networks. It is critical for IoT, 5G, and beyond.",
+      "flowchart": [
+        "Learn wireless communication basics (RF, modulation techniques).",
+        "Study wireless protocols (Wi-Fi, Bluetooth, Zigbee, LTE).",
+        "Work on projects (e.g., wireless sensor networks, IoT devices).",
+        "Explore advanced topics (5G, MIMO, beamforming)."
+      ],
+      "certifications": [
+        "Certified Wireless Network Administrator (CWNA)",
+        "Cisco Certified Network Professional (CCNP) Wireless",
+        "IEEE Wireless Communication Certification",
+        "5G and Beyond Certification by edX"
+      ]
+    },
+    {
+      "name": "Embedded Systems and VLSI Design",
+      "description": "Embedded systems involve designing and programming hardware systems for specific tasks, while VLSI (Very Large Scale Integration) focuses on designing integrated circuits.",
+      "flowchart": [
+        "Learn C/C++ and assembly language for embedded programming.",
+        "Study microcontrollers (Arduino, Raspberry Pi) and FPGAs.",
+        "Work on projects (e.g., IoT devices, robotics).",
+        "Explore VLSI design tools (Cadence, Synopsys) and RTL synthesis."
+      ],
+      "certifications": [
+        "ARM Certified Embedded Engineer",
+        "Cadence VLSI Design Certification",
+        "Embedded Systems Certification by Coursera",
+        "FPGA Design Certification by Xilinx"
+      ]
+    },
+    {
+      "name": "Microelectronics and Nanoelectronics",
+      "description": "Microelectronics and nanoelectronics focus on designing and fabricating electronic devices at micro and nano scales, such as transistors, sensors, and MEMS.",
+      "flowchart": [
+        "Learn semiconductor physics and device modeling.",
+        "Study fabrication techniques (lithography, etching, doping).",
+        "Work on projects (e.g., MEMS devices, nano-sensors).",
+        "Explore advanced topics (quantum dots, spintronics)."
+      ],
+      "certifications": [
+        "IEEE Microelectronics Certification",
+        "Nanoelectronics Certification by edX",
+        "Semiconductor Device Fabrication Certification",
+        "MEMS Design Certification"
+      ]
+    },
+    {
+      "name": "Digital System Design",
+      "description": "Digital system design involves creating and optimizing digital circuits and systems, including processors, memory, and FPGAs.",
+      "flowchart": [
+        "Learn digital logic design (Boolean algebra, logic gates).",
+        "Study hardware description languages (Verilog, VHDL).",
+        "Work on projects (e.g., FPGA-based systems, CPU design).",
+        "Explore advanced topics (ASIC design, RTL synthesis)."
+      ],
+      "certifications": [
+        "Xilinx FPGA Design Certification",
+        "Verilog/VHDL Certification",
+        "Digital Design Certification by Coursera",
+        "ASIC Design Certification"
+      ]
+    },
+    {
+      "name": "Antenna and Wave Propagation",
+      "description": "Antenna and wave propagation focus on designing antennas and understanding how electromagnetic waves propagate through different media.",
+      "flowchart": [
+        "Learn electromagnetic theory and antenna basics.",
+        "Study antenna design tools (CST, HFSS).",
+        "Work on projects (e.g., microstrip antennas, phased arrays).",
+        "Explore advanced topics (MIMO, beamforming)."
+      ],
+      "certifications": [
+        "IEEE Antenna and Propagation Certification",
+        "CST Studio Suite Certification",
+        "Antenna Design Certification by Coursera",
+        "RF and Microwave Engineering Certification"
+      ]
+    },
+    {
+      "name": "Satellite Communication",
+      "description": "Satellite communication involves designing and optimizing systems for communication via satellites, including geostationary and low-earth orbit satellites.",
+      "flowchart": [
+        "Learn satellite communication basics (orbits, link budget).",
+        "Study satellite subsystems (transponders, antennas).",
+        "Work on projects (e.g., satellite link design).",
+        "Explore advanced topics (LEO, GEO satellites)."
+      ],
+      "certifications": [
+        "Satellite Communication Certification by IEEE",
+        "Coursera Satellite Communication Specialization",
+        "Satellite Systems Engineering Certification",
+        "Space Communication Certification by edX"
+      ]
+    },
+    {
+      "name": "Optical Fiber Communication",
+      "description": "Optical fiber communication focuses on transmitting data using light through optical fibers, enabling high-speed and long-distance communication.",
+      "flowchart": [
+        "Learn the basics of optics and fiber technology.",
+        "Study optical communication systems (modulation, multiplexing).",
+        "Work on projects (e.g., fiber optic link design).",
+        "Explore advanced topics (DWDM, optical amplifiers)."
+      ],
+      "certifications": [
+        "Optical Fiber Communication Certification by IEEE",
+        "Coursera Optical Communication Specialization",
+        "Fiber Optic Network Design Certification",
+        "DWDM Certification"
+      ]
+    },
+    {
+      "name": "Biomedical Signal Processing",
+      "description": "Biomedical signal processing involves analyzing signals from the human body, such as ECG, EEG, and MRI, for medical diagnosis and treatment.",
+      "flowchart": [
+        "Learn the basics of biomedical signals and systems.",
+        "Study signal processing techniques (filtering, feature extraction).",
+        "Work on projects (e.g., ECG analysis, brain-computer interfaces).",
+        "Explore advanced topics (machine learning for biomedical signals)."
+      ],
+      "certifications": [
+        "Biomedical Signal Processing Certification by IEEE",
+        "Coursera Biomedical Signal Processing Specialization",
+        "Medical Imaging Certification",
+        "EEG Signal Processing Certification"
+      ]
+    },
+    {
+      "name": "Robotics and Automation",
+      "description": "Robotics and automation involve designing and programming robots and automated systems for industrial, medical, and domestic applications.",
+      "flowchart": [
+        "Learn robotics fundamentals (kinematics, dynamics).",
+        "Study programming languages (Python, C++).",
+        "Work on projects (e.g., robotic arms, autonomous vehicles).",
+        "Explore advanced topics (AI in robotics, swarm robotics)."
+      ],
+      "certifications": [
+        "Certified Robotics Engineer",
+        "ROS (Robot Operating System) Certification",
+        "Industrial Automation Certification",
+        "Robotics Certification by Coursera"
+      ]
+    },
+    {
+      "name": "Internet of Things (IoT)",
+      "description": "IoT involves connecting physical devices to the internet for data exchange and automation, enabling smart homes, cities, and industries.",
+      "flowchart": [
+        "Learn IoT basics (sensors, communication protocols).",
+        "Study IoT platforms (AWS IoT, Google IoT Core).",
+        "Work on projects (e.g., smart home systems).",
+        "Explore advanced topics (edge computing, IoT security)."
+      ],
+      "certifications": [
+        "AWS IoT Certification",
+        "Cisco IoT Certification",
+        "IoT Fundamentals by Cisco",
+        "IoT Specialization by Coursera"
+      ]
+    },
+    {
+      "name": "Radar and Navigation Systems",
+      "description": "Radar and navigation systems involve designing and optimizing systems for detection, tracking, and navigation, used in aviation, defense, and automotive industries.",
+      "flowchart": [
+        "Learn radar basics (pulse radar, Doppler radar).",
+        "Study navigation systems (GPS, INS).",
+        "Work on projects (e.g., radar signal processing).",
+        "Explore advanced topics (synthetic aperture radar, autonomous navigation)."
+      ],
+      "certifications": [
+        "Radar Systems Certification by IEEE",
+        "Navigation Systems Certification by Coursera",
+        "Autonomous Navigation Certification",
+        "Radar Signal Processing Certification"
+      ]
+    },
+    {
+      "name": "RF and Microwave Engineering",
+      "description": "RF and microwave engineering focus on designing and optimizing systems that operate at radio and microwave frequencies, used in communication, radar, and medical applications.",
+      "flowchart": [
+        "Learn RF and microwave basics (transmission lines, waveguides).",
+        "Study RF circuit design (amplifiers, filters).",
+        "Work on projects (e.g., RF transceiver design).",
+        "Explore advanced topics (microwave antennas, RF MEMS)."
+      ],
+      "certifications": [
+        "RF and Microwave Engineering Certification by IEEE",
+        "Coursera RF Engineering Specialization",
+        "Microwave Circuit Design Certification",
+        "RF System Design Certification"
+      ]
+    },
+    {
+      "name": "Analog and Mixed-Signal Processing",
+      "description": "Analog and mixed-signal processing involves designing and optimizing circuits that process both analog and digital signals, used in communication, audio, and sensor systems.",
+      "flowchart": [
+        "Learn analog circuit design (amplifiers, filters).",
+        "Study mixed-signal processing techniques (ADC, DAC).",
+        "Work on projects (e.g., audio processing systems).",
+        "Explore advanced topics (low-power design, signal integrity)."
+      ],
+      "certifications": [
+        "Analog Circuit Design Certification by IEEE",
+        "Mixed-Signal Processing Certification by Coursera",
+        "Analog IC Design Certification",
+        "Signal Integrity Certification"
+      ]
+    },
+    {
+      "name": "Power Electronics",
+      "description": "Power electronics involves designing and optimizing circuits for power conversion and control, used in renewable energy, electric vehicles, and industrial automation.",
+      "flowchart": [
+        "Learn power electronics basics (rectifiers, inverters).",
+        "Study power semiconductor devices (MOSFETs, IGBTs).",
+        "Work on projects (e.g., DC-DC converters).",
+        "Explore advanced topics (smart grids, renewable energy systems)."
+      ],
+      "certifications": [
+        "Power Electronics Certification by IEEE",
+        "Coursera Power Electronics Specialization",
+        "Renewable Energy Systems Certification",
+        "Electric Vehicle Power Systems Certification"
+      ]
+    },
+    {
+      "name": "Electromagnetic Field Theory",
+      "description": "Electromagnetic field theory focuses on understanding and applying the principles of electromagnetism, used in antennas, RF systems, and wireless communication.",
+      "flowchart": [
+        "Learn Maxwell's equations and electromagnetic waves.",
+        "Study antenna theory and wave propagation.",
+        "Work on projects (e.g., antenna design).",
+        "Explore advanced topics (computational electromagnetics)."
+      ],
+      "certifications": [
+        "Electromagnetic Field Theory Certification by IEEE",
+        "Coursera Electromagnetics Specialization",
+        "Antenna Design Certification",
+        "Computational Electromagnetics Certification"
+      ]
+    },
+    {
+      "name": "Photonic Devices and Systems",
+      "description": "Photonic devices and systems involve designing and optimizing devices that use light, such as lasers, optical fibers, and photonic integrated circuits.",
+      "flowchart": [
+        "Learn the basics of photonics and optics.",
+        "Study photonic devices (lasers, photodetectors).",
+        "Work on projects (e.g., optical communication systems).",
+        "Explore advanced topics (quantum photonics)."
+      ],
+      "certifications": [
+        "Photonics Certification by IEEE",
+        "Coursera Photonics Specialization",
+        "Optical Communication Certification",
+        "Quantum Photonics Certification"
+      ]
+    },
+    {
+      "name": "Electronic Instrumentation and Control",
+      "description": "Electronic instrumentation and control involve designing and optimizing systems for measurement and control, used in industrial automation and robotics.",
+      "flowchart": [
+        "Learn instrumentation basics (sensors, transducers).",
+        "Study control systems (PID controllers, feedback systems).",
+        "Work on projects (e.g., temperature control systems).",
+        "Explore advanced topics (industrial IoT)."
+      ],
+      "certifications": [
+        "Instrumentation and Control Certification by IEEE",
+        "Coursera Control Systems Specialization",
+        "Industrial Automation Certification",
+        "PID Control Certification"
+      ]
+    },
+    {
+      "name": "MEMS (Micro-Electro-Mechanical Systems)",
+      "description": "MEMS involve designing and fabricating micro-scale devices that combine mechanical and electrical components, used in sensors, actuators, and biomedical devices.",
+      "flowchart": [
+        "Learn MEMS basics (fabrication techniques).",
+        "Study MEMS devices (accelerometers, gyroscopes).",
+        "Work on projects (e.g., MEMS-based sensors).",
+        "Explore advanced topics (bio-MEMS)."
+      ],
+      "certifications": [
+        "MEMS Design Certification by IEEE",
+        "Coursera MEMS Specialization",
+        "Microfabrication Certification",
+        "Bio-MEMS Certification"
+      ]
+    },
+    {
+      "name": "Nanotechnology in Electronics",
+      "description": "Nanotechnology in electronics involves designing and fabricating electronic devices at the nanoscale, such as nanowires, nanotubes, and quantum dots.",
+      "flowchart": [
+        "Learn nanotechnology basics (nanomaterials, nanofabrication).",
+        "Study nanoelectronic devices (nanowires, quantum dots).",
+        "Work on projects (e.g., nano-sensors).",
+        "Explore advanced topics (spintronics, molecular electronics)."
+      ],
+      "certifications": [
+        "Nanotechnology Certification by IEEE",
+        "Coursera Nanotechnology Specialization",
+        "Nanoelectronics Certification",
+        "Quantum Computing Certification"
+      ]
+    },
+    {
+      "name": "Smart Grid and Automation",
+      "description": "Smart grid and automation involve designing and optimizing electrical grids with advanced monitoring, control, and automation technologies.",
+      "flowchart": [
+        "Learn smart grid basics (power distribution, renewable energy integration).",
+        "Study automation technologies (SCADA, IoT).",
+        "Work on projects (e.g., smart metering systems).",
+        "Explore advanced topics (grid resilience, energy storage)."
+      ],
+      "certifications": [
+        "Smart Grid Certification by IEEE",
+        "Coursera Smart Grid Specialization",
+        "SCADA Systems Certification",
+        "Renewable Energy Integration Certification"
+      ]
+    },
+    {
+      "name": "Digital and Analog Communication",
+      "description": "Digital and analog communication involves designing and optimizing systems for transmitting information using digital and analog signals.",
+      "flowchart": [
+        "Learn communication basics (modulation, demodulation).",
+        "Study digital communication techniques (error correction, coding).",
+        "Work on projects (e.g., digital transceivers).",
+        "Explore advanced topics (software-defined radio)."
+      ],
+      "certifications": [
+        "Digital Communication Certification by IEEE",
+        "Coursera Communication Systems Specialization",
+        "Analog Communication Certification",
+        "Software-Defined Radio Certification"
+      ]
+    },
+    {
+      "name": "Control Systems Engineering",
+      "description": "Control systems engineering involves designing and optimizing systems for controlling processes, used in robotics, aerospace, and industrial automation.",
+      "flowchart": [
+        "Learn control systems basics (feedback, PID controllers).",
+        "Study system modeling and simulation.",
+        "Work on projects (e.g., robotic control systems).",
+        "Explore advanced topics (nonlinear control, adaptive control)."
+      ],
+      "certifications": [
+        "Control Systems Certification by IEEE",
+        "Coursera Control Systems Specialization",
+        "PID Control Certification",
+        "Robotics Control Certification"
+      ]
+    },
+    {
+      "name": "Speech and Audio Signal Processing",
+      "description": "Speech and audio signal processing involves analyzing and modifying speech and audio signals for applications like voice recognition and music processing.",
+      "flowchart": [
+        "Learn the basics of speech and audio signals.",
+        "Study signal processing techniques (filtering, feature extraction).",
+        "Work on projects (e.g., speech recognition systems).",
+        "Explore advanced topics (deep learning for audio processing)."
+      ],
+      "certifications": [
+        "Speech Processing Certification by IEEE",
+        "Coursera Audio Signal Processing Specialization",
+        "Voice Recognition Certification",
+        "Music Signal Processing Certification"
+      ]
+    },
+    {
+      "name": "Automotive Electronics",
+      "description": "Automotive electronics involves designing and optimizing electronic systems for vehicles, including engine control, infotainment, and autonomous driving.",
+      "flowchart": [
+        "Learn automotive electronics basics (ECUs, sensors).",
+        "Study vehicle communication protocols (CAN, LIN).",
+        "Work on projects (e.g., engine control systems).",
+        "Explore advanced topics (autonomous vehicles, V2X communication)."
+      ],
+      "certifications": [
+        "Automotive Electronics Certification by IEEE",
+        "Coursera Automotive Systems Specialization",
+        "Autonomous Vehicle Certification",
+        "Vehicle Communication Certification"
+      ]
+    },
+    {
+      "name": "Wearable and Flexible Electronics",
+      "description": "Wearable and flexible electronics involve designing and fabricating electronic devices that can be worn or bent, used in healthcare, fitness, and consumer electronics.",
+      "flowchart": [
+        "Learn the basics of flexible materials and electronics.",
+        "Study wearable device design (sensors, energy harvesting).",
+        "Work on projects (e.g., smartwatches, fitness trackers).",
+        "Explore advanced topics (e-textiles, bio-integrated devices)."
+      ],
+      "certifications": [
+        "Wearable Electronics Certification by IEEE",
+        "Coursera Wearable Technology Specialization",
+        "Flexible Electronics Certification",
+        "Bio-Integrated Devices Certification"
+      ]
+    }
+  ]

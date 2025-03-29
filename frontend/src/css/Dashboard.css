@@ -1,0 +1,105 @@
+/* Dark theme styles for the Dashboard */
+body {
+  background-color: #121212; /* Dark background */
+  color: #ffffff; /* White text */
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+/* Welcome Card */
+.dashboard-card {
+  background-color: transparent; /* Fully transparent background */
+  border: none;
+  border-radius: 20px;
+  padding: 2rem;
+  max-width: 600px;
+  margin: 60px auto 20px; /* Center the card and add margin at the bottom */
+  transition: transform 0.3s ease;
+}
+
+.dashboard-card:hover {
+  transform: translateY(-5px); /* Lift the card on hover */
+}
+
+.dashboard-title {
+  color: #ffffff; /* White for title */
+  font-weight: bold;
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.dashboard-subtitle {
+  color: #b0b0b0; /* Light gray for subtitle */
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+.dashboard-button {
+  background-color: #de5858; /* Blue for button */
+  border: none;
+  border-radius: 25px;
+  padding: 10px 30px;
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: #ffffff; /* White text for button */
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.dashboard-button:hover {
+  background-color: #702323; /* Darker blue on hover */
+  transform: scale(1.05); /* Slightly enlarge the button on hover */
+}
+
+/* Career-Related Section */
+#career-info,
+#about-us,
+#how-to-use,
+#what-to-do {
+  margin-top: 50px;
+}
+
+#career-info h2,
+#about-us h2,
+#how-to-use h2,
+#what-to-do h2 {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #ffffff; /* White for headings */
+  margin-bottom: 20px;
+}
+
+#career-info h3,
+#about-us h3,
+#how-to-use h3,
+#what-to-do h3 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #ffffff; /* White for subheadings */
+  margin-top: 20px;
+}
+
+#career-info p,
+#about-us p,
+#how-to-use p,
+#what-to-do p {
+  font-size: 1.1rem;
+  color: #b0b0b0; /* Light gray for paragraphs */
+  line-height: 1.6;
+}
+
+#career-info ul,
+#about-us ul,
+#how-to-use ul,
+#what-to-do ul {
+  list-style-type: disc;
+  margin-left: 20px;
+  color: #b0b0b0; /* Light gray for list items */
+}
+
+#career-info ul li,
+#about-us ul li,
+#how-to-use ul li,
+#what-to-do ul li {
+  margin-bottom: 10px;
+}

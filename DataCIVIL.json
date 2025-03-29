@@ -1,0 +1,418 @@
+[
+    {
+      "name": "Structural Engineering",
+      "description": "Structural engineering focuses on the design and analysis of structures to ensure they can withstand loads and environmental conditions. It includes the study of materials like concrete, steel, and timber, and the application of principles like load distribution and stability. Applications include buildings, bridges, towers, and industrial structures.",
+      "flowchart": [
+        "Learn the basics of structural analysis (loads, forces, moments, and equilibrium).",
+        "Study structural materials (concrete, steel, timber, and composites).",
+        "Work on projects (e.g., building design, bridge analysis, tower structures).",
+        "Explore advanced topics (finite element analysis, seismic design, and dynamic analysis)."
+      ],
+      "certifications": [
+        "Structural Engineering Certification by ASCE",
+        "Finite Element Analysis (FEA) Certification",
+        "Seismic Design Certification",
+        "Bridge Engineering Certification"
+      ]
+    },
+    {
+      "name": "Geotechnical Engineering",
+      "description": "Geotechnical engineering involves the study of soil and rock mechanics to design foundations, retaining walls, and slopes. It is essential for ensuring the stability and safety of structures built on or in the ground. Applications include construction, mining, and environmental engineering.",
+      "flowchart": [
+        "Learn the basics of soil mechanics (shear strength, compaction, permeability).",
+        "Study foundation design (shallow foundations, deep foundations, pile foundations).",
+        "Work on projects (e.g., slope stability analysis, retaining wall design, soil testing).",
+        "Explore advanced topics (soil-structure interaction, geosynthetics, and ground improvement techniques)."
+      ],
+      "certifications": [
+        "Geotechnical Engineering Certification by ASCE",
+        "Soil Mechanics Certification",
+        "Foundation Design Certification",
+        "Slope Stability Certification"
+      ]
+    },
+    {
+      "name": "Transportation Engineering",
+      "description": "Transportation engineering focuses on the design and management of transportation systems, including roads, railways, airports, and public transit. It involves traffic flow analysis, pavement design, and transportation planning. Applications include urban development, logistics, and infrastructure management.",
+      "flowchart": [
+        "Learn the basics of transportation systems (traffic flow, transportation modes).",
+        "Study pavement design and materials (asphalt, concrete).",
+        "Work on projects (e.g., highway design, traffic signal optimization).",
+        "Explore advanced topics (intelligent transportation systems, sustainable transportation)."
+      ],
+      "certifications": [
+        "Transportation Engineering Certification by ASCE",
+        "Traffic Engineering Certification",
+        "Pavement Design Certification",
+        "Intelligent Transportation Systems (ITS) Certification"
+      ]
+    },
+    {
+      "name": "Water Resources and Hydraulic Engineering",
+      "description": "Water resources and hydraulic engineering involve the management and utilization of water resources, including rivers, lakes, and groundwater. It includes the design of hydraulic structures like dams, canals, and pipelines. Applications include irrigation, flood control, and water supply systems.",
+      "flowchart": [
+        "Learn the basics of hydrology (rainfall, runoff, and water cycle).",
+        "Study hydraulic structures (dams, canals, pipelines).",
+        "Work on projects (e.g., flood control systems, irrigation networks).",
+        "Explore advanced topics (water resource management, computational hydraulics)."
+      ],
+      "certifications": [
+        "Water Resources Engineering Certification by ASCE",
+        "Hydraulic Engineering Certification",
+        "Flood Control Certification",
+        "Irrigation Systems Certification"
+      ]
+    },
+    {
+      "name": "Environmental Engineering",
+      "description": "Environmental engineering focuses on the protection of the environment through the design of systems for waste management, pollution control, and sustainable development. It includes water treatment, air quality management, and waste disposal. Applications include municipal and industrial sectors.",
+      "flowchart": [
+        "Learn the basics of environmental systems (water, air, soil).",
+        "Study pollution control techniques (filtration, sedimentation, and bioremediation).",
+        "Work on projects (e.g., wastewater treatment plants, air quality monitoring).",
+        "Explore advanced topics (sustainable development, climate change mitigation)."
+      ],
+      "certifications": [
+        "Environmental Engineering Certification by ASCE",
+        "Water Treatment Certification",
+        "Air Quality Management Certification",
+        "Sustainable Development Certification"
+      ]
+    },
+    {
+      "name": "Construction and Project Management",
+      "description": "Construction and project management involve the planning, execution, and control of construction projects. It includes cost estimation, scheduling, and resource management. Applications include residential, commercial, and infrastructure projects.",
+      "flowchart": [
+        "Learn the basics of construction management (project planning, scheduling).",
+        "Study cost estimation and resource allocation.",
+        "Work on projects (e.g., construction site management, project scheduling).",
+        "Explore advanced topics (lean construction, BIM, and risk management)."
+      ],
+      "certifications": [
+        "Construction Management Certification by PMI",
+        "Project Management Professional (PMP) Certification",
+        "Building Information Modeling (BIM) Certification",
+        "Lean Construction Certification"
+      ]
+    },
+    {
+      "name": "Surveying and Geomatics",
+      "description": "Surveying and geomatics involve the measurement and mapping of the Earth's surface using technologies like GPS, GIS, and remote sensing. Applications include land development, construction, and environmental monitoring.",
+      "flowchart": [
+        "Learn the basics of surveying (land measurement, leveling).",
+        "Study geomatics technologies (GPS, GIS, remote sensing).",
+        "Work on projects (e.g., topographic mapping, land surveying).",
+        "Explore advanced topics (3D mapping, drone surveying)."
+      ],
+      "certifications": [
+        "Surveying Certification by NSPS",
+        "Geomatics Certification",
+        "GIS Certification",
+        "Drone Surveying Certification"
+      ]
+    },
+    {
+      "name": "Urban and Regional Planning",
+      "description": "Urban and regional planning involves the design and development of cities and regions to ensure sustainable growth and efficient land use. It includes transportation planning, zoning, and environmental impact assessment. Applications include urban development and infrastructure planning.",
+      "flowchart": [
+        "Learn the basics of urban planning (zoning, land use).",
+        "Study transportation and infrastructure planning.",
+        "Work on projects (e.g., city master plans, regional development plans).",
+        "Explore advanced topics (smart cities, sustainable urban development)."
+      ],
+      "certifications": [
+        "Urban Planning Certification by APA",
+        "Smart Cities Certification",
+        "Sustainable Urban Development Certification",
+        "Transportation Planning Certification"
+      ]
+    },
+    {
+      "name": "Building Technology and Construction Materials",
+      "description": "Building technology and construction materials involve the study of materials and techniques used in construction. It includes concrete, steel, timber, and sustainable materials. Applications include residential, commercial, and industrial construction.",
+      "flowchart": [
+        "Learn the basics of construction materials (concrete, steel, timber).",
+        "Study building techniques (masonry, framing, roofing).",
+        "Work on projects (e.g., material testing, building design).",
+        "Explore advanced topics (sustainable materials, green building technology)."
+      ],
+      "certifications": [
+        "Building Technology Certification by ASCE",
+        "Concrete Technology Certification",
+        "Sustainable Construction Certification",
+        "Green Building Certification"
+      ]
+    },
+    {
+      "name": "Bridge and Tunnel Engineering",
+      "description": "Bridge and tunnel engineering involve the design and construction of bridges and tunnels. It includes structural analysis, material selection, and construction techniques. Applications include transportation and infrastructure development.",
+      "flowchart": [
+        "Learn the basics of bridge and tunnel design (load analysis, materials).",
+        "Study construction techniques (foundations, tunneling methods).",
+        "Work on projects (e.g., bridge design, tunnel construction).",
+        "Explore advanced topics (long-span bridges, underwater tunnels)."
+      ],
+      "certifications": [
+        "Bridge Engineering Certification by ASCE",
+        "Tunnel Engineering Certification",
+        "Structural Analysis Certification",
+        "Long-Span Bridge Design Certification"
+      ]
+    },
+    {
+      "name": "Smart Cities and Infrastructure",
+      "description": "Smart cities and infrastructure involve the integration of technology into urban systems to improve efficiency and sustainability. It includes IoT, data analytics, and smart transportation. Applications include urban development and infrastructure management.",
+      "flowchart": [
+        "Learn the basics of smart city concepts (IoT, data analytics).",
+        "Study smart infrastructure systems (transportation, energy, water).",
+        "Work on projects (e.g., smart traffic systems, energy-efficient buildings).",
+        "Explore advanced topics (urban data analytics, AI in smart cities)."
+      ],
+      "certifications": [
+        "Smart Cities Certification by IEEE",
+        "IoT in Urban Systems Certification",
+        "Data Analytics for Smart Cities Certification",
+        "AI in Smart Cities Certification"
+      ]
+    },
+    {
+      "name": "Disaster Risk Management",
+      "description": "Disaster risk management involves the identification, assessment, and mitigation of risks associated with natural and man-made disasters. It includes emergency planning, risk assessment, and resilience building. Applications include urban planning and infrastructure development.",
+      "flowchart": [
+        "Learn the basics of disaster risk assessment (hazard analysis, vulnerability assessment).",
+        "Study disaster mitigation techniques (early warning systems, evacuation planning).",
+        "Work on projects (e.g., disaster recovery plans, risk assessment).",
+        "Explore advanced topics (resilience engineering, climate adaptation)."
+      ],
+      "certifications": [
+        "Disaster Risk Management Certification by UNDRR",
+        "Emergency Planning Certification",
+        "Risk Assessment Certification",
+        "Resilience Engineering Certification"
+      ]
+    },
+    {
+      "name": "Structural Health Monitoring",
+      "description": "Structural health monitoring involves the use of sensors and data analysis to assess the condition of structures. It includes vibration analysis, strain measurement, and damage detection. Applications include bridges, buildings, and industrial structures.",
+      "flowchart": [
+        "Learn the basics of structural health monitoring (sensors, data collection).",
+        "Study data analysis techniques (vibration analysis, strain measurement).",
+        "Work on projects (e.g., bridge monitoring, building health assessment).",
+        "Explore advanced topics (AI in structural health monitoring, predictive maintenance)."
+      ],
+      "certifications": [
+        "Structural Health Monitoring Certification by ASCE",
+        "Vibration Analysis Certification",
+        "Damage Detection Certification",
+        "Predictive Maintenance Certification"
+      ]
+    },
+    {
+      "name": "Soil Mechanics and Foundation Engineering",
+      "description": "Soil mechanics and foundation engineering involve the study of soil behavior and the design of foundations for structures. It includes soil testing, foundation design, and ground improvement techniques. Applications include construction and infrastructure development.",
+      "flowchart": [
+        "Learn the basics of soil mechanics (shear strength, compaction, permeability).",
+        "Study foundation design (shallow foundations, deep foundations).",
+        "Work on projects (e.g., soil testing, foundation design).",
+        "Explore advanced topics (ground improvement, soil-structure interaction)."
+      ],
+      "certifications": [
+        "Soil Mechanics Certification by ASCE",
+        "Foundation Engineering Certification",
+        "Ground Improvement Certification",
+        "Soil-Structure Interaction Certification"
+      ]
+    },
+    {
+      "name": "Concrete Technology",
+      "description": "Concrete technology involves the study of concrete materials, mix design, and durability. It includes the use of additives, admixtures, and advanced concrete types. Applications include construction and infrastructure development.",
+      "flowchart": [
+        "Learn the basics of concrete materials (cement, aggregates, water).",
+        "Study concrete mix design and testing.",
+        "Work on projects (e.g., concrete mix optimization, durability testing).",
+        "Explore advanced topics (high-performance concrete, self-healing concrete)."
+      ],
+      "certifications": [
+        "Concrete Technology Certification by ACI",
+        "Concrete Mix Design Certification",
+        "Durability Testing Certification",
+        "High-Performance Concrete Certification"
+      ]
+    },
+    {
+      "name": "Remote Sensing and GIS",
+      "description": "Remote sensing and GIS involve the use of satellite imagery and geographic information systems for mapping and analysis. Applications include urban planning, environmental monitoring, and disaster management.",
+      "flowchart": [
+        "Learn the basics of remote sensing (satellite imagery, image processing).",
+        "Study GIS software (ArcGIS, QGIS).",
+        "Work on projects (e.g., land use mapping, environmental monitoring).",
+        "Explore advanced topics (3D mapping, drone-based remote sensing)."
+      ],
+      "certifications": [
+        "Remote Sensing Certification by ASPRS",
+        "GIS Certification",
+        "Drone-Based Remote Sensing Certification",
+        "3D Mapping Certification"
+      ]
+    },
+    {
+      "name": "Hydraulic Structures and Dams",
+      "description": "Hydraulic structures and dams involve the design and construction of structures for water management, including dams, spillways, and canals. Applications include irrigation, flood control, and hydropower generation.",
+      "flowchart": [
+        "Learn the basics of hydraulic structures (dams, spillways, canals).",
+        "Study dam design and construction techniques.",
+        "Work on projects (e.g., dam design, flood control systems).",
+        "Explore advanced topics (hydropower generation, sediment management)."
+      ],
+      "certifications": [
+        "Hydraulic Structures Certification by ASCE",
+        "Dam Design Certification",
+        "Flood Control Certification",
+        "Hydropower Engineering Certification"
+      ]
+    },
+    {
+      "name": "Highway and Pavement Engineering",
+      "description": "Highway and pavement engineering involve the design and construction of roads and pavements. It includes pavement materials, design standards, and maintenance techniques. Applications include transportation and infrastructure development.",
+      "flowchart": [
+        "Learn the basics of pavement materials (asphalt, concrete).",
+        "Study pavement design and construction techniques.",
+        "Work on projects (e.g., highway design, pavement maintenance).",
+        "Explore advanced topics (smart pavements, sustainable road construction)."
+      ],
+      "certifications": [
+        "Highway Engineering Certification by ASCE",
+        "Pavement Design Certification",
+        "Smart Pavements Certification",
+        "Sustainable Road Construction Certification"
+      ]
+    },
+    {
+      "name": "Traffic Engineering",
+      "description": "Traffic engineering involves the design and management of traffic systems to ensure safe and efficient movement of vehicles and pedestrians. It includes traffic flow analysis, signal design, and transportation planning. Applications include urban development and transportation systems.",
+      "flowchart": [
+        "Learn the basics of traffic flow (traffic volume, speed, density).",
+        "Study traffic signal design and optimization.",
+        "Work on projects (e.g., traffic signal timing, intersection design).",
+        "Explore advanced topics (intelligent transportation systems, traffic simulation)."
+      ],
+      "certifications": [
+        "Traffic Engineering Certification by ITE",
+        "Traffic Signal Design Certification",
+        "Intelligent Transportation Systems (ITS) Certification",
+        "Traffic Simulation Certification"
+      ]
+    },
+    {
+      "name": "Coastal and Offshore Engineering",
+      "description": "Coastal and offshore engineering involve the design and construction of structures in coastal and marine environments. It includes coastal protection, offshore platforms, and marine structures. Applications include coastal development and oil and gas industries.",
+      "flowchart": [
+        "Learn the basics of coastal engineering (wave dynamics, erosion).",
+        "Study offshore structures (platforms, pipelines).",
+        "Work on projects (e.g., coastal protection systems, offshore platform design).",
+        "Explore advanced topics (marine renewable energy, climate adaptation)."
+      ],
+      "certifications": [
+        "Coastal Engineering Certification by ASCE",
+        "Offshore Engineering Certification",
+        "Marine Renewable Energy Certification",
+        "Climate Adaptation Certification"
+      ]
+    },
+    {
+      "name": "Advanced Construction Techniques",
+      "description": "Advanced construction techniques involve the use of innovative methods and technologies for construction. It includes prefabrication, modular construction, and 3D printing. Applications include residential, commercial, and industrial construction.",
+      "flowchart": [
+        "Learn the basics of advanced construction methods (prefabrication, modular construction).",
+        "Study construction technologies (3D printing, robotics).",
+        "Work on projects (e.g., modular building design, 3D-printed structures).",
+        "Explore advanced topics (smart construction, sustainable building techniques)."
+      ],
+      "certifications": [
+        "Advanced Construction Certification by ASCE",
+        "Prefabrication Certification",
+        "3D Printing in Construction Certification",
+        "Smart Construction Certification"
+      ]
+    },
+    {
+      "name": "Retrofitting and Rehabilitation of Structures",
+      "description": "Retrofitting and rehabilitation of structures involve the repair and strengthening of existing structures to improve their performance and safety. Applications include historical buildings, bridges, and industrial structures.",
+      "flowchart": [
+        "Learn the basics of structural assessment (crack analysis, load testing).",
+        "Study retrofitting techniques (strengthening, repair).",
+        "Work on projects (e.g., bridge retrofitting, building rehabilitation).",
+        "Explore advanced topics (seismic retrofitting, advanced materials)."
+      ],
+      "certifications": [
+        "Retrofitting Certification by ASCE",
+        "Seismic Retrofitting Certification",
+        "Structural Rehabilitation Certification",
+        "Advanced Materials in Retrofitting Certification"
+      ]
+    },
+    {
+      "name": "Earthquake Engineering and Seismic Design",
+      "description": "Earthquake engineering and seismic design involve the study of earthquake effects on structures and the design of earthquake-resistant buildings. Applications include high-risk seismic zones and infrastructure development.",
+      "flowchart": [
+        "Learn the basics of earthquake engineering (seismic waves, ground motion).",
+        "Study seismic design principles (base isolation, damping systems).",
+        "Work on projects (e.g., seismic analysis of buildings, earthquake-resistant design).",
+        "Explore advanced topics (performance-based design, seismic retrofitting)."
+      ],
+      "certifications": [
+        "Earthquake Engineering Certification by ASCE",
+        "Seismic Design Certification",
+        "Performance-Based Design Certification",
+        "Seismic Retrofitting Certification"
+      ]
+    },
+    {
+      "name": "Green Building Technology",
+      "description": "Green building technology involves the design and construction of environmentally sustainable buildings. It includes energy efficiency, water conservation, and sustainable materials. Applications include residential, commercial, and industrial construction.",
+      "flowchart": [
+        "Learn the basics of green building principles (energy efficiency, water conservation).",
+        "Study sustainable materials and construction techniques.",
+        "Work on projects (e.g., LEED-certified building design).",
+        "Explore advanced topics (net-zero energy buildings, biophilic design)."
+      ],
+      "certifications": [
+        "Green Building Certification by USGBC (LEED)",
+        "Sustainable Design Certification",
+        "Energy Efficiency Certification",
+        "Net-Zero Energy Building Certification"
+      ]
+    },
+    {
+      "name": "Geoinformatics",
+      "description": "Geoinformatics involves the use of geographic information systems (GIS) and remote sensing for spatial data analysis. Applications include urban planning, environmental monitoring, and disaster management.",
+      "flowchart": [
+        "Learn the basics of GIS and remote sensing (data collection, image processing).",
+        "Study spatial data analysis techniques (mapping, modeling).",
+        "Work on projects (e.g., land use mapping, environmental impact assessment).",
+        "Explore advanced topics (3D GIS, drone-based mapping)."
+      ],
+      "certifications": [
+        "Geoinformatics Certification by ASPRS",
+        "GIS Certification",
+        "Remote Sensing Certification",
+        "Drone-Based Mapping Certification"
+      ]
+    },
+    {
+      "name": "Urban Heat Island Mitigation",
+      "description": "Urban heat island mitigation involves strategies to reduce the heat island effect in urban areas. It includes green roofs, cool pavements, and urban forestry. Applications include urban planning and climate adaptation.",
+      "flowchart": [
+        "Learn the basics of urban heat islands (causes, effects).",
+        "Study mitigation strategies (green roofs, cool pavements).",
+        "Work on projects (e.g., urban heat island mapping, mitigation planning).",
+        "Explore advanced topics (climate-resilient urban design, sustainable cooling)."
+      ],
+      "certifications": [
+        "Urban Heat Island Mitigation Certification by ASCE",
+        "Green Roof Certification",
+        "Cool Pavements Certification",
+        "Climate-Resilient Urban Design Certification"
+      ]
+    }
+  ]

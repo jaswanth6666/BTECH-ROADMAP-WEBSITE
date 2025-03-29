@@ -1,0 +1,434 @@
+[
+    {
+      "name": "Thermal Engineering",
+      "description": "Thermal engineering focuses on the study of heat transfer, thermodynamics, and energy conversion systems. It is essential for designing engines, HVAC systems, and power plants. Applications include energy efficiency, renewable energy systems, and thermal management in electronics.",
+      "flowchart": [
+        "Learn the basics of thermodynamics (laws, cycles, and properties of substances).",
+        "Study heat transfer mechanisms (conduction, convection, and radiation).",
+        "Work on projects (e.g., heat exchanger design, thermal insulation systems).",
+        "Explore advanced topics (combustion, renewable energy systems, and computational fluid dynamics)."
+      ],
+      "certifications": [
+        "Thermodynamics Certification by ASME",
+        "Heat Transfer Certification by Coursera",
+        "HVAC Systems Certification",
+        "Combustion Engineering Certification"
+      ]
+    },
+    {
+      "name": "Fluid Mechanics and Hydraulic Machines",
+      "description": "Fluid mechanics involves the study of fluid behavior, including flow, pressure, and viscosity. Hydraulic machines focus on devices like pumps, turbines, and compressors that use fluid power. Applications include water supply systems, hydroelectric power plants, and aerospace engineering.",
+      "flowchart": [
+        "Learn the basics of fluid mechanics (Bernoulli's equation, viscosity, and flow regimes).",
+        "Study hydraulic machines (pumps, turbines, and compressors).",
+        "Work on projects (e.g., pump design, fluid flow simulation).",
+        "Explore advanced topics (computational fluid dynamics, multiphase flow)."
+      ],
+      "certifications": [
+        "Fluid Mechanics Certification by ASME",
+        "Hydraulic Machines Certification by Coursera",
+        "Computational Fluid Dynamics (CFD) Certification",
+        "Pump and Turbine Design Certification"
+      ]
+    },
+    {
+      "name": "Automobile Engineering",
+      "description": "Automobile engineering focuses on the design, development, and manufacturing of vehicles. It includes areas like engine design, vehicle dynamics, and safety systems. Applications range from passenger cars to electric and autonomous vehicles.",
+      "flowchart": [
+        "Learn the basics of automobile systems (engine, transmission, suspension).",
+        "Study vehicle dynamics and control systems.",
+        "Work on projects (e.g., engine performance optimization, electric vehicle design).",
+        "Explore advanced topics (autonomous vehicles, hybrid propulsion systems)."
+      ],
+      "certifications": [
+        "Automobile Engineering Certification by SAE",
+        "Electric Vehicle Design Certification",
+        "Vehicle Dynamics Certification",
+        "Autonomous Vehicle Systems Certification"
+      ]
+    },
+    {
+      "name": "Manufacturing and Production Technology",
+      "description": "Manufacturing and production technology involve the processes and systems used to produce goods efficiently. It includes machining, casting, welding, and additive manufacturing. Applications include automotive, aerospace, and consumer goods industries.",
+      "flowchart": [
+        "Learn the basics of manufacturing processes (machining, casting, welding).",
+        "Study production systems (lean manufacturing, Six Sigma).",
+        "Work on projects (e.g., CNC machining, production line optimization).",
+        "Explore advanced topics (additive manufacturing, Industry 4.0)."
+      ],
+      "certifications": [
+        "Manufacturing Processes Certification by ASME",
+        "Lean Manufacturing Certification",
+        "Six Sigma Certification",
+        "Additive Manufacturing Certification"
+      ]
+    },
+    {
+      "name": "Mechatronics and Robotics",
+      "description": "Mechatronics combines mechanical, electrical, and computer engineering to design intelligent systems. Robotics focuses on the design and control of robots. Applications include industrial automation, medical robotics, and autonomous systems.",
+      "flowchart": [
+        "Learn the basics of mechatronics (sensors, actuators, control systems).",
+        "Study robotics (kinematics, dynamics, and control algorithms).",
+        "Work on projects (e.g., robotic arm design, autonomous robots).",
+        "Explore advanced topics (AI in robotics, swarm robotics)."
+      ],
+      "certifications": [
+        "Mechatronics Certification by IEEE",
+        "Robotics Certification by Coursera",
+        "Industrial Automation Certification",
+        "AI in Robotics Certification"
+      ]
+    },
+    {
+      "name": "Aerospace Engineering",
+      "description": "Aerospace engineering focuses on the design and development of aircraft and spacecraft. It includes aerodynamics, propulsion, and structural analysis. Applications range from commercial aviation to space exploration.",
+      "flowchart": [
+        "Learn the basics of aerodynamics (lift, drag, and thrust).",
+        "Study propulsion systems (jet engines, rocket engines).",
+        "Work on projects (e.g., aircraft design, drone development).",
+        "Explore advanced topics (hypersonic flight, space propulsion)."
+      ],
+      "certifications": [
+        "Aerospace Engineering Certification by AIAA",
+        "Aerodynamics Certification by Coursera",
+        "Propulsion Systems Certification",
+        "Spacecraft Design Certification"
+      ]
+    },
+    {
+      "name": "CAD/CAM (Computer-Aided Design/Manufacturing)",
+      "description": "CAD/CAM involves the use of software tools for designing and manufacturing products. It includes 3D modeling, simulation, and CNC programming. Applications include automotive, aerospace, and consumer goods industries.",
+      "flowchart": [
+        "Learn the basics of CAD software (AutoCAD, SolidWorks).",
+        "Study CAM software (CNC programming, simulation).",
+        "Work on projects (e.g., 3D modeling, CNC machining).",
+        "Explore advanced topics (generative design, digital twins)."
+      ],
+      "certifications": [
+        "CAD Certification by Autodesk",
+        "CAM Certification by Coursera",
+        "CNC Programming Certification",
+        "Generative Design Certification"
+      ]
+    },
+    {
+      "name": "Material Science and Metallurgy",
+      "description": "Material science and metallurgy focus on the study of materials and their properties. It includes metals, polymers, ceramics, and composites. Applications include aerospace, automotive, and construction industries.",
+      "flowchart": [
+        "Learn the basics of material properties (strength, hardness, corrosion).",
+        "Study material processing techniques (casting, forging, heat treatment).",
+        "Work on projects (e.g., material selection for specific applications).",
+        "Explore advanced topics (nanomaterials, smart materials)."
+      ],
+      "certifications": [
+        "Material Science Certification by ASM International",
+        "Metallurgy Certification by Coursera",
+        "Nanomaterials Certification",
+        "Smart Materials Certification"
+      ]
+    },
+    {
+      "name": "Welding Technology",
+      "description": "Welding technology involves joining materials using heat and pressure. It includes techniques like arc welding, gas welding, and laser welding. Applications include construction, automotive, and shipbuilding industries.",
+      "flowchart": [
+        "Learn the basics of welding techniques (arc welding, gas welding).",
+        "Study welding materials and safety protocols.",
+        "Work on projects (e.g., welding joints, structural welding).",
+        "Explore advanced topics (laser welding, robotic welding)."
+      ],
+      "certifications": [
+        "Welding Certification by AWS",
+        "Laser Welding Certification",
+        "Robotic Welding Certification",
+        "Structural Welding Certification"
+      ]
+    },
+    {
+      "name": "Machine Design and Dynamics",
+      "description": "Machine design and dynamics involve the design and analysis of mechanical systems. It includes kinematics, dynamics, and stress analysis. Applications include machinery, robotics, and automotive systems.",
+      "flowchart": [
+        "Learn the basics of machine design (kinematics, dynamics).",
+        "Study stress analysis and material selection.",
+        "Work on projects (e.g., gear design, mechanical linkages).",
+        "Explore advanced topics (vibration analysis, finite element analysis)."
+      ],
+      "certifications": [
+        "Machine Design Certification by ASME",
+        "Dynamics Certification by Coursera",
+        "Finite Element Analysis (FEA) Certification",
+        "Vibration Analysis Certification"
+      ]
+    },
+    {
+      "name": "Industrial Engineering and Management",
+      "description": "Industrial engineering and management focus on optimizing production processes and managing resources efficiently. It includes operations research, supply chain management, and quality control. Applications include manufacturing, logistics, and service industries.",
+      "flowchart": [
+        "Learn the basics of industrial engineering (process optimization, workflow analysis).",
+        "Study management techniques (supply chain management, quality control).",
+        "Work on projects (e.g., production line optimization, inventory management).",
+        "Explore advanced topics (lean manufacturing, Six Sigma)."
+      ],
+      "certifications": [
+        "Industrial Engineering Certification by IIE",
+        "Supply Chain Management Certification",
+        "Lean Manufacturing Certification",
+        "Six Sigma Certification"
+      ]
+    },
+    {
+      "name": "Operations Research",
+      "description": "Operations research involves the use of mathematical models to optimize decision-making. It includes linear programming, simulation, and optimization techniques. Applications include logistics, finance, and manufacturing.",
+      "flowchart": [
+        "Learn the basics of operations research (linear programming, queuing theory).",
+        "Study optimization techniques (simulation, dynamic programming).",
+        "Work on projects (e.g., supply chain optimization, resource allocation).",
+        "Explore advanced topics (stochastic modeling, game theory)."
+      ],
+      "certifications": [
+        "Operations Research Certification by INFORMS",
+        "Linear Programming Certification by Coursera",
+        "Simulation Modeling Certification",
+        "Optimization Techniques Certification"
+      ]
+    },
+    {
+      "name": "Maintenance Engineering",
+      "description": "Maintenance engineering focuses on ensuring the reliability and efficiency of mechanical systems. It includes preventive and predictive maintenance techniques. Applications include manufacturing, energy, and transportation industries.",
+      "flowchart": [
+        "Learn the basics of maintenance techniques (preventive, predictive).",
+        "Study condition monitoring and fault diagnosis.",
+        "Work on projects (e.g., maintenance scheduling, equipment reliability).",
+        "Explore advanced topics (IoT in maintenance, predictive analytics)."
+      ],
+      "certifications": [
+        "Maintenance Engineering Certification by SMRP",
+        "Predictive Maintenance Certification",
+        "Condition Monitoring Certification",
+        "IoT in Maintenance Certification"
+      ]
+    },
+    {
+      "name": "Tribology (Friction, Lubrication, Wear)",
+      "description": "Tribology involves the study of friction, lubrication, and wear in mechanical systems. It is essential for improving the efficiency and lifespan of machinery. Applications include automotive, aerospace, and manufacturing industries.",
+      "flowchart": [
+        "Learn the basics of tribology (friction, lubrication, wear mechanisms).",
+        "Study lubrication techniques and materials.",
+        "Work on projects (e.g., bearing design, wear analysis).",
+        "Explore advanced topics (nanotribology, bio-tribology)."
+      ],
+      "certifications": [
+        "Tribology Certification by STLE",
+        "Lubrication Engineering Certification",
+        "Wear Analysis Certification",
+        "Nanotribology Certification"
+      ]
+    },
+    {
+      "name": "Biomechanics",
+      "description": "Biomechanics involves the application of mechanical principles to biological systems. It includes the study of human movement, prosthetics, and medical devices. Applications include healthcare, sports, and rehabilitation.",
+      "flowchart": [
+        "Learn the basics of biomechanics (human anatomy, kinematics).",
+        "Study medical devices and prosthetics.",
+        "Work on projects (e.g., gait analysis, orthopedic implants).",
+        "Explore advanced topics (biomechanical modeling, tissue engineering)."
+      ],
+      "certifications": [
+        "Biomechanics Certification by ASME",
+        "Medical Device Design Certification",
+        "Prosthetics and Orthotics Certification",
+        "Tissue Engineering Certification"
+      ]
+    },
+    {
+      "name": "Renewable and Sustainable Energy",
+      "description": "Renewable and sustainable energy focuses on the development of energy systems that reduce environmental impact. It includes solar, wind, and hydro energy. Applications include power generation, transportation, and building design.",
+      "flowchart": [
+        "Learn the basics of renewable energy sources (solar, wind, hydro).",
+        "Study energy storage and grid integration.",
+        "Work on projects (e.g., solar panel design, wind turbine optimization).",
+        "Explore advanced topics (smart grids, energy policy)."
+      ],
+      "certifications": [
+        "Renewable Energy Certification by IEEE",
+        "Solar Energy Certification by Coursera",
+        "Wind Energy Certification",
+        "Energy Storage Systems Certification"
+      ]
+    },
+    {
+      "name": "Heat Transfer and Combustion",
+      "description": "Heat transfer and combustion involve the study of heat exchange and chemical reactions in energy systems. Applications include engines, power plants, and HVAC systems.",
+      "flowchart": [
+        "Learn the basics of heat transfer (conduction, convection, radiation).",
+        "Study combustion processes (fuels, reaction kinetics).",
+        "Work on projects (e.g., heat exchanger design, combustion analysis).",
+        "Explore advanced topics (computational fluid dynamics, emissions control)."
+      ],
+      "certifications": [
+        "Heat Transfer Certification by ASME",
+        "Combustion Engineering Certification",
+        "Computational Fluid Dynamics (CFD) Certification",
+        "Emissions Control Certification"
+      ]
+    },
+    {
+      "name": "Advanced Manufacturing Technologies",
+      "description": "Advanced manufacturing technologies involve the use of cutting-edge techniques like additive manufacturing, nanotechnology, and automation. Applications include aerospace, automotive, and electronics industries.",
+      "flowchart": [
+        "Learn the basics of advanced manufacturing (additive manufacturing, nanotechnology).",
+        "Study automation and robotics in manufacturing.",
+        "Work on projects (e.g., 3D printing, automated assembly lines).",
+        "Explore advanced topics (Industry 4.0, digital twins)."
+      ],
+      "certifications": [
+        "Advanced Manufacturing Certification by SME",
+        "Additive Manufacturing Certification",
+        "Nanotechnology in Manufacturing Certification",
+        "Industry 4.0 Certification"
+      ]
+    },
+    {
+      "name": "Additive Manufacturing (3D Printing)",
+      "description": "Additive manufacturing, or 3D printing, involves creating objects layer by layer using digital models. Applications include prototyping, medical devices, and aerospace components.",
+      "flowchart": [
+        "Learn the basics of 3D printing (materials, processes).",
+        "Study 3D modeling and design software.",
+        "Work on projects (e.g., 3D-printed prototypes, custom parts).",
+        "Explore advanced topics (multi-material printing, bioprinting)."
+      ],
+      "certifications": [
+        "Additive Manufacturing Certification by SME",
+        "3D Printing Certification by Coursera",
+        "Bioprinting Certification",
+        "Multi-Material Printing Certification"
+      ]
+    },
+    {
+      "name": "Automated Production Systems",
+      "description": "Automated production systems involve the use of robotics and control systems to automate manufacturing processes. Applications include automotive, electronics, and consumer goods industries.",
+      "flowchart": [
+        "Learn the basics of automation (PLCs, robotics).",
+        "Study production line design and optimization.",
+        "Work on projects (e.g., automated assembly lines).",
+        "Explore advanced topics (IoT in manufacturing, predictive maintenance)."
+      ],
+      "certifications": [
+        "Automation Certification by ISA",
+        "Robotics in Manufacturing Certification",
+        "IoT in Manufacturing Certification",
+        "Predictive Maintenance Certification"
+      ]
+    },
+    {
+      "name": "Tool and Die Design",
+      "description": "Tool and die design involves the creation of tools, molds, and dies used in manufacturing processes. Applications include automotive, aerospace, and consumer goods industries.",
+      "flowchart": [
+        "Learn the basics of tool and die design (materials, processes).",
+        "Study CAD software for tool design.",
+        "Work on projects (e.g., mold design, die casting).",
+        "Explore advanced topics (rapid tooling, precision engineering)."
+      ],
+      "certifications": [
+        "Tool and Die Design Certification by SME",
+        "CAD for Tool Design Certification",
+        "Mold Design Certification",
+        "Precision Engineering Certification"
+      ]
+    },
+    {
+      "name": "Precision Engineering",
+      "description": "Precision engineering focuses on the design and manufacturing of high-precision components. Applications include aerospace, medical devices, and electronics industries.",
+      "flowchart": [
+        "Learn the basics of precision engineering (tolerances, metrology).",
+        "Study precision machining and measurement techniques.",
+        "Work on projects (e.g., micro-machining, optical components).",
+        "Explore advanced topics (nanomanufacturing, ultra-precision machining)."
+      ],
+      "certifications": [
+        "Precision Engineering Certification by ASME",
+        "Metrology Certification",
+        "Nanomanufacturing Certification",
+        "Ultra-Precision Machining Certification"
+      ]
+    },
+    {
+      "name": "Finite Element Analysis (FEA)",
+      "description": "Finite Element Analysis (FEA) involves the use of computational methods to analyze the behavior of structures and materials. Applications include automotive, aerospace, and civil engineering.",
+      "flowchart": [
+        "Learn the basics of FEA (meshing, boundary conditions).",
+        "Study FEA software (ANSYS, Abaqus).",
+        "Work on projects (e.g., structural analysis, thermal analysis).",
+        "Explore advanced topics (nonlinear FEA, dynamic analysis)."
+      ],
+      "certifications": [
+        "FEA Certification by ASME",
+        "ANSYS Certification",
+        "Abaqus Certification",
+        "Nonlinear FEA Certification"
+      ]
+    },
+    {
+      "name": "Piping and Pipeline Engineering",
+      "description": "Piping and pipeline engineering involve the design and analysis of systems for transporting fluids. Applications include oil and gas, water supply, and chemical industries.",
+      "flowchart": [
+        "Learn the basics of piping and pipeline systems (materials, standards).",
+        "Study fluid flow and pressure drop analysis.",
+        "Work on projects (e.g., pipeline design, stress analysis).",
+        "Explore advanced topics (offshore pipelines, smart pipelines)."
+      ],
+      "certifications": [
+        "Piping Engineering Certification by ASME",
+        "Pipeline Design Certification",
+        "Offshore Pipeline Certification",
+        "Smart Pipeline Systems Certification"
+      ]
+    },
+    {
+      "name": "Quality Assurance and Control",
+      "description": "Quality assurance and control involve ensuring the quality of products and processes. It includes inspection, testing, and statistical process control. Applications include manufacturing, healthcare, and food industries.",
+      "flowchart": [
+        "Learn the basics of quality assurance (inspection, testing).",
+        "Study statistical process control and Six Sigma.",
+        "Work on projects (e.g., quality audits, process improvement).",
+        "Explore advanced topics (automated inspection, AI in quality control)."
+      ],
+      "certifications": [
+        "Quality Assurance Certification by ASQ",
+        "Six Sigma Certification",
+        "Statistical Process Control Certification",
+        "AI in Quality Control Certification"
+      ]
+    },
+    {
+      "name": "Smart Manufacturing (Industry 4.0)",
+      "description": "Smart manufacturing, or Industry 4.0, involves the integration of advanced technologies like IoT, AI, and robotics into manufacturing processes. Applications include automotive, electronics, and consumer goods industries.",
+      "flowchart": [
+        "Learn the basics of Industry 4.0 (IoT, AI, robotics).",
+        "Study smart factory design and optimization.",
+        "Work on projects (e.g., IoT-enabled production lines).",
+        "Explore advanced topics (digital twins, predictive maintenance)."
+      ],
+      "certifications": [
+        "Industry 4.0 Certification by SME",
+        "IoT in Manufacturing Certification",
+        "Digital Twin Certification",
+        "Predictive Maintenance Certification"
+      ]
+    },
+    {
+      "name": "HVAC and Refrigeration Systems",
+      "description": "HVAC (Heating, Ventilation, and Air Conditioning) and refrigeration systems involve the design and optimization of systems for climate control and cooling. Applications include buildings, vehicles, and food storage.",
+      "flowchart": [
+        "Learn the basics of HVAC systems (heat transfer, refrigeration cycles).",
+        "Study system design and optimization.",
+        "Work on projects (e.g., HVAC system design, energy efficiency).",
+        "Explore advanced topics (smart HVAC systems, green refrigeration)."
+      ],
+      "certifications": [
+        "HVAC Certification by ASHRAE",
+        "Refrigeration Systems Certification",
+        "Energy Efficiency in HVAC Certification",
+        "Smart HVAC Systems Certification"
+      ]
+    }
+  ]

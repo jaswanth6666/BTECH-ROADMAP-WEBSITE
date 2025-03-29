@@ -1,0 +1,386 @@
+[
+    {
+      "name": "Power Systems and Power Electronics",
+      "description": "Power systems involve the generation, transmission, and distribution of electrical power, while power electronics focuses on efficient energy conversion using devices like rectifiers, inverters, and converters. This domain is critical for modern energy systems, including renewable energy integration and smart grids.",
+      "flowchart": [
+        "Learn the basics of power systems (generation, transmission, distribution).",
+        "Study power electronics (rectifiers, inverters, DC-DC converters).",
+        "Work on projects (e.g., grid integration of renewable energy).",
+        "Explore advanced topics (smart grids, FACTS devices, HVDC systems)."
+      ],
+      "certifications": [
+        "IEEE Power Systems Certification",
+        "Power Electronics Certification by Coursera",
+        "Smart Grid Certification",
+        "FACTS Devices Certification"
+      ]
+    },
+    {
+      "name": "Electrical Machines and Drives",
+      "description": "Electrical machines and drives involve the design, analysis, and control of motors, generators, and drives used in industrial, commercial, and residential applications. This domain is essential for automation, robotics, and electric vehicles.",
+      "flowchart": [
+        "Learn the basics of electrical machines (DC motors, AC motors, synchronous machines).",
+        "Study motor control techniques (VFD, DTC, FOC).",
+        "Work on projects (e.g., motor speed control, electric vehicle drives).",
+        "Explore advanced topics (sensorless control, regenerative braking)."
+      ],
+      "certifications": [
+        "Electrical Machines Certification by IEEE",
+        "Motor Drives Certification by Coursera",
+        "Electric Vehicle Drives Certification",
+        "Industrial Motor Control Certification"
+      ]
+    },
+    {
+      "name": "Renewable Energy Systems",
+      "description": "Renewable energy systems focus on generating energy from sustainable sources like solar, wind, hydro, and biomass. This domain is critical for reducing carbon emissions and achieving energy sustainability.",
+      "flowchart": [
+        "Learn the basics of renewable energy sources (solar, wind, hydro, biomass).",
+        "Study energy conversion systems (solar panels, wind turbines, hydro turbines).",
+        "Work on projects (e.g., solar power plant design, wind farm optimization).",
+        "Explore advanced topics (energy storage, grid integration, microgrids)."
+      ],
+      "certifications": [
+        "Renewable Energy Certification by IEEE",
+        "Solar Energy Certification by Coursera",
+        "Wind Energy Certification",
+        "Energy Storage Systems Certification"
+      ]
+    },
+    {
+      "name": "High Voltage Engineering",
+      "description": "High voltage engineering involves the study and application of high voltage in power transmission, insulation systems, and testing. It is essential for ensuring the reliability and safety of power systems.",
+      "flowchart": [
+        "Learn the basics of high voltage systems (transmission lines, transformers).",
+        "Study insulation materials and techniques.",
+        "Work on projects (e.g., high voltage testing, insulation design).",
+        "Explore advanced topics (partial discharge, lightning protection)."
+      ],
+      "certifications": [
+        "High Voltage Engineering Certification by IEEE",
+        "Power System Protection Certification",
+        "Insulation Systems Certification",
+        "Lightning Protection Certification"
+      ]
+    },
+    {
+      "name": "Power Distribution and Automation",
+      "description": "Power distribution and automation focus on designing and optimizing systems for efficient power distribution and automated control. This domain is critical for modern smart grids and industrial automation.",
+      "flowchart": [
+        "Learn the basics of power distribution systems (transformers, switchgear).",
+        "Study automation technologies (SCADA, PLCs).",
+        "Work on projects (e.g., smart grid design, automated substations).",
+        "Explore advanced topics (distribution management systems, IoT in power distribution)."
+      ],
+      "certifications": [
+        "Power Distribution Certification by IEEE",
+        "SCADA Systems Certification",
+        "Smart Grid Certification",
+        "Industrial Automation Certification"
+      ]
+    },
+    {
+      "name": "Electric Vehicles and Smart Grids",
+      "description": "Electric vehicles (EVs) and smart grids involve the integration of EVs with power grids and the development of intelligent energy management systems. This domain is critical for sustainable transportation and energy systems.",
+      "flowchart": [
+        "Learn the basics of electric vehicles (batteries, motors, power electronics).",
+        "Study smart grid technologies (energy management, demand response).",
+        "Work on projects (e.g., EV charging infrastructure, V2G systems).",
+        "Explore advanced topics (battery management systems, grid resilience)."
+      ],
+      "certifications": [
+        "Electric Vehicle Certification by IEEE",
+        "Smart Grid Certification by Coursera",
+        "Battery Management Systems (BMS) Certification",
+        "Vehicle-to-Grid (V2G) Certification"
+      ]
+    },
+    {
+      "name": "Energy Management and Auditing",
+      "description": "Energy management and auditing involve optimizing energy consumption and identifying opportunities for energy savings in industrial, commercial, and residential systems.",
+      "flowchart": [
+        "Learn the basics of energy management (energy audits, energy efficiency).",
+        "Study energy monitoring and control systems.",
+        "Work on projects (e.g., energy audits for industries).",
+        "Explore advanced topics (energy modeling, renewable energy integration)."
+      ],
+      "certifications": [
+        "Energy Management Certification by IEEE",
+        "Energy Auditor Certification",
+        "Energy Efficiency Certification",
+        "Renewable Energy Integration Certification"
+      ]
+    },
+    {
+      "name": "Industrial Automation and Control",
+      "description": "Industrial automation and control involve designing and optimizing systems for automated manufacturing and process control. This domain is critical for improving productivity and efficiency in industries.",
+      "flowchart": [
+        "Learn the basics of industrial automation (PLCs, SCADA).",
+        "Study control systems (PID controllers, feedback systems).",
+        "Work on projects (e.g., automated assembly lines).",
+        "Explore advanced topics (robotics, IoT in automation)."
+      ],
+      "certifications": [
+        "Industrial Automation Certification by IEEE",
+        "PLC Programming Certification",
+        "SCADA Systems Certification",
+        "Robotics and Automation Certification"
+      ]
+    },
+    {
+      "name": "Smart Grid Technology",
+      "description": "Smart grid technology involves the integration of advanced communication and control technologies into power grids for efficient and reliable energy management.",
+      "flowchart": [
+        "Learn the basics of smart grids (AMI, demand response).",
+        "Study communication protocols (IoT, Zigbee, LoRa).",
+        "Work on projects (e.g., smart metering systems).",
+        "Explore advanced topics (grid resilience, cybersecurity)."
+      ],
+      "certifications": [
+        "Smart Grid Certification by IEEE",
+        "IoT in Energy Systems Certification",
+        "Cybersecurity for Smart Grids Certification",
+        "Advanced Metering Infrastructure (AMI) Certification"
+      ]
+    },
+    {
+      "name": "Power Quality and Reliability",
+      "description": "Power quality and reliability focus on ensuring stable and high-quality power supply by mitigating issues like harmonics, voltage fluctuations, and outages.",
+      "flowchart": [
+        "Learn the basics of power quality (harmonics, voltage sags).",
+        "Study mitigation techniques (filters, compensators).",
+        "Work on projects (e.g., power quality analysis).",
+        "Explore advanced topics (real-time monitoring, predictive maintenance)."
+      ],
+      "certifications": [
+        "Power Quality Certification by IEEE",
+        "Harmonics Mitigation Certification",
+        "Voltage Stability Certification",
+        "Predictive Maintenance Certification"
+      ]
+    },
+    {
+      "name": "HVAC and HVDC Systems",
+      "description": "HVAC (High Voltage Alternating Current) and HVDC (High Voltage Direct Current) systems are used for efficient power transmission over long distances.",
+      "flowchart": [
+        "Learn the basics of HVAC and HVDC systems.",
+        "Study transmission line design and optimization.",
+        "Work on projects (e.g., HVDC link design).",
+        "Explore advanced topics (multi-terminal HVDC, grid integration)."
+      ],
+      "certifications": [
+        "HVAC Systems Certification by IEEE",
+        "HVDC Systems Certification",
+        "Power Transmission Certification",
+        "Grid Integration Certification"
+      ]
+    },
+    {
+      "name": "Electric Propulsion Systems",
+      "description": "Electric propulsion systems involve the design and optimization of propulsion systems for electric vehicles, ships, and aircraft.",
+      "flowchart": [
+        "Learn the basics of electric propulsion (motors, power electronics).",
+        "Study control systems for propulsion.",
+        "Work on projects (e.g., electric vehicle propulsion).",
+        "Explore advanced topics (hybrid propulsion, regenerative braking)."
+      ],
+      "certifications": [
+        "Electric Propulsion Certification by IEEE",
+        "Electric Vehicle Drives Certification",
+        "Hybrid Propulsion Certification",
+        "Regenerative Braking Certification"
+      ]
+    },
+    {
+      "name": "Battery Management Systems (BMS)",
+      "description": "Battery management systems involve the design and optimization of systems for monitoring and controlling batteries in electric vehicles and renewable energy systems.",
+      "flowchart": [
+        "Learn the basics of battery technologies (Li-ion, NiMH).",
+        "Study BMS design (cell balancing, thermal management).",
+        "Work on projects (e.g., BMS for EVs).",
+        "Explore advanced topics (fast charging, battery lifespan optimization)."
+      ],
+      "certifications": [
+        "Battery Management Systems Certification by IEEE",
+        "Electric Vehicle Battery Certification",
+        "Thermal Management Certification",
+        "Fast Charging Systems Certification"
+      ]
+    },
+    {
+      "name": "Robotics and Control Systems",
+      "description": "Robotics and control systems involve the design and optimization of robotic systems and control algorithms for industrial and domestic applications.",
+      "flowchart": [
+        "Learn the basics of robotics (kinematics, dynamics).",
+        "Study control systems (PID, adaptive control).",
+        "Work on projects (e.g., robotic arms, autonomous robots).",
+        "Explore advanced topics (AI in robotics, swarm robotics)."
+      ],
+      "certifications": [
+        "Robotics Certification by IEEE",
+        "Control Systems Certification by Coursera",
+        "Industrial Robotics Certification",
+        "AI in Robotics Certification"
+      ]
+    },
+    {
+      "name": "Instrumentation and Measurement",
+      "description": "Instrumentation and measurement involve designing and optimizing systems for measuring physical quantities like temperature, pressure, and flow.",
+      "flowchart": [
+        "Learn the basics of sensors and transducers.",
+        "Study measurement techniques (analog, digital).",
+        "Work on projects (e.g., temperature control systems).",
+        "Explore advanced topics (IoT-based instrumentation)."
+      ],
+      "certifications": [
+        "Instrumentation Certification by IEEE",
+        "Sensors and Transducers Certification",
+        "IoT in Instrumentation Certification",
+        "Industrial Measurement Certification"
+      ]
+    },
+    {
+      "name": "Electrical Maintenance Engineering",
+      "description": "Electrical maintenance engineering involves ensuring the reliability and safety of electrical systems through regular maintenance and troubleshooting.",
+      "flowchart": [
+        "Learn the basics of electrical systems (transformers, motors).",
+        "Study maintenance techniques (predictive, preventive).",
+        "Work on projects (e.g., transformer maintenance).",
+        "Explore advanced topics (condition monitoring, fault diagnosis)."
+      ],
+      "certifications": [
+        "Electrical Maintenance Certification by IEEE",
+        "Predictive Maintenance Certification",
+        "Fault Diagnosis Certification",
+        "Transformer Maintenance Certification"
+      ]
+    },
+    {
+      "name": "Electrical Safety and Standards",
+      "description": "Electrical safety and standards involve ensuring compliance with safety regulations and standards for electrical systems and equipment.",
+      "flowchart": [
+        "Learn the basics of electrical safety (grounding, insulation).",
+        "Study safety standards (IEC, IEEE, NEC).",
+        "Work on projects (e.g., safety audits).",
+        "Explore advanced topics (arc flash analysis, risk assessment)."
+      ],
+      "certifications": [
+        "Electrical Safety Certification by IEEE",
+        "Arc Flash Analysis Certification",
+        "Safety Standards Certification",
+        "Risk Assessment Certification"
+      ]
+    },
+    {
+      "name": "Energy Conservation Techniques",
+      "description": "Energy conservation techniques involve optimizing energy consumption and reducing waste in industrial, commercial, and residential systems.",
+      "flowchart": [
+        "Learn the basics of energy conservation (audits, efficiency).",
+        "Study energy-saving technologies (LEDs, VFDs).",
+        "Work on projects (e.g., energy-efficient lighting).",
+        "Explore advanced topics (renewable energy integration)."
+      ],
+      "certifications": [
+        "Energy Conservation Certification by IEEE",
+        "Energy Efficiency Certification",
+        "Renewable Energy Integration Certification",
+        "Energy Auditing Certification"
+      ]
+    },
+    {
+      "name": "Signal and Power Integrity",
+      "description": "Signal and power integrity involve ensuring the reliability and performance of electrical and electronic systems by minimizing noise and interference.",
+      "flowchart": [
+        "Learn the basics of signal and power integrity (noise, crosstalk).",
+        "Study design techniques (PCB layout, shielding).",
+        "Work on projects (e.g., high-speed PCB design).",
+        "Explore advanced topics (EMI/EMC compliance)."
+      ],
+      "certifications": [
+        "Signal Integrity Certification by IEEE",
+        "Power Integrity Certification",
+        "EMI/EMC Compliance Certification",
+        "High-Speed PCB Design Certification"
+      ]
+    },
+    {
+      "name": "Power Plant Engineering",
+      "description": "Power plant engineering involves the design, operation, and maintenance of power generation facilities, including thermal, hydro, and nuclear plants.",
+      "flowchart": [
+        "Learn the basics of power plant systems (boilers, turbines).",
+        "Study plant operation and maintenance.",
+        "Work on projects (e.g., thermal power plant design).",
+        "Explore advanced topics (carbon capture, renewable integration)."
+      ],
+      "certifications": [
+        "Power Plant Engineering Certification by IEEE",
+        "Thermal Power Plant Certification",
+        "Hydro Power Plant Certification",
+        "Nuclear Power Plant Certification"
+      ]
+    },
+    {
+      "name": "Electrical CAD and Simulation",
+      "description": "Electrical CAD and simulation involve using software tools for designing and simulating electrical systems and circuits.",
+      "flowchart": [
+        "Learn the basics of electrical CAD tools (AutoCAD, EPLAN).",
+        "Study simulation tools (MATLAB, PSpice).",
+        "Work on projects (e.g., circuit design and simulation).",
+        "Explore advanced topics (3D modeling, real-time simulation)."
+      ],
+      "certifications": [
+        "Electrical CAD Certification by IEEE",
+        "MATLAB Simulation Certification",
+        "PSpice Certification",
+        "3D Modeling Certification"
+      ]
+    },
+    {
+      "name": "Magnetic Levitation Systems",
+      "description": "Magnetic levitation systems involve the design and optimization of systems that use magnetic fields to levitate objects, such as maglev trains.",
+      "flowchart": [
+        "Learn the basics of magnetic levitation (electromagnets, superconductors).",
+        "Study control systems for levitation.",
+        "Work on projects (e.g., maglev train design).",
+        "Explore advanced topics (high-speed transportation)."
+      ],
+      "certifications": [
+        "Magnetic Levitation Certification by IEEE",
+        "Maglev Train Design Certification",
+        "Superconductors Certification",
+        "High-Speed Transportation Certification"
+      ]
+    },
+    {
+      "name": "Automation in Power Systems",
+      "description": "Automation in power systems involves the use of advanced control and communication technologies for efficient power system operation.",
+      "flowchart": [
+        "Learn the basics of power system automation (SCADA, PLCs).",
+        "Study communication protocols (IoT, Zigbee).",
+        "Work on projects (e.g., automated substations).",
+        "Explore advanced topics (smart grids, predictive maintenance)."
+      ],
+      "certifications": [
+        "Power System Automation Certification by IEEE",
+        "SCADA Systems Certification",
+        "IoT in Power Systems Certification",
+        "Predictive Maintenance Certification"
+      ]
+    },
+    {
+      "name": "Adaptive and Optimal Control Systems",
+      "description": "Adaptive and optimal control systems involve designing control algorithms that adapt to changing conditions and optimize system performance.",
+      "flowchart": [
+        "Learn the basics of control systems (PID, state-space).",
+        "Study adaptive and optimal control techniques.",
+        "Work on projects (e.g., adaptive motor control).",
+        "Explore advanced topics (AI-based control, predictive control)."
+      ],
+      "certifications": [
+        "Adaptive Control Certification by IEEE",
+        "Optimal Control Certification",
+        "AI in Control Systems Certification",
+        "Predictive Control Certification"
+      ]
+    }
+  ]

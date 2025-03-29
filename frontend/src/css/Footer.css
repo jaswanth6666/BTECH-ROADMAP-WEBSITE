@@ -1,0 +1,34 @@
+/* Footer Styles */
+.footer {
+  background-color: #93615c; /* Dark background */
+  color: #ffffff; /* White text */
+}
+
+.footer-heading {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  color: #ffffff; /* White for headings */
+}
+
+.footer-text {
+  font-size: 0.9rem;
+  color: #adadad; /* Light gray for text */
+}
+
+.footer-link {
+  color: #575757; /* Light gray for links */
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.footer-link:hover {
+  color: #ffffff; /* White on hover */
+  text-decoration: none;
+}
+
+/* Social Media Icons */
+.fab {
+  margin-right: 0.5rem;
+  font-size: 1.1rem;
+}
