@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/btech-roadmap-website/static/css/main.85c79c6f.css",
+    "main.js": "/btech-roadmap-website/static/js/main.b1e74f62.js",
+    "static/js/453.8ab44547.chunk.js": "/btech-roadmap-website/static/js/453.8ab44547.chunk.js",
+    "static/media/clg-logo.png": "/btech-roadmap-website/static/media/clg-logo.6ef6c47386303e6401a1.png",
+    "static/media/bg-11.jpg": "/btech-roadmap-website/static/media/bg-11.9755abbd3f31360ec761.jpg",
+    "index.html": "/btech-roadmap-website/index.html",
+    "main.85c79c6f.css.map": "/btech-roadmap-website/static/css/main.85c79c6f.css.map",
+    "main.b1e74f62.js.map": "/btech-roadmap-website/static/js/main.b1e74f62.js.map",
+    "453.8ab44547.chunk.js.map": "/btech-roadmap-website/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85c79c6f.css",
+    "static/js/main.b1e74f62.js"
+  ]
+}
