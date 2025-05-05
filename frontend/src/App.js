@@ -26,7 +26,7 @@ function App() {
   }, []);
 
   return (
-    <Router>
+    <>
       <Navbar isLoggedIn={isLoggedIn} setIsLoggedIn={setIsLoggedIn} />
       <Routes>
         <Route path="/" element={<Dashboard />} />
@@ -40,7 +40,7 @@ function App() {
         <Route path="/reset-password" element={<ResetPassword />} />
       </Routes>
       <Footer />
-    </Router>
+    </>
   );
 }
 
