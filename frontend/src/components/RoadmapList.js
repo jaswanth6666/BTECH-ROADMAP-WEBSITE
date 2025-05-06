@@ -6,7 +6,7 @@ const RoadmapList = () => {
   const [roadmaps, setRoadmaps] = useState([]);
 
   useEffect(() => {
-    axios.get('http://localhost:5000/api/roadmaps')
+    axios.get(`${process.env.REACT_APP_API_URL}/api/roadmaps`)
       .then(response => setRoadmaps(response.data))
       .catch(err => console.log(err));
   }, []);
