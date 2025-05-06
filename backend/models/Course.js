@@ -6,4 +6,4 @@ const CourseSchema = new mongoose.Schema({
   domains: [{ type: mongoose.Schema.Types.ObjectId, ref: 'Domain' }], // List of domains
 });
 
-module.exports = mongoose.model('Course', CourseSchema);
+module.exports = mongoose.model('Course', CourseSchema ,'Courses');
