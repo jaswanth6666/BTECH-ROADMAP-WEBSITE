@@ -15,7 +15,7 @@ const ResetPassword = () => {
     try {
       const token = localStorage.getItem('token');
       await axios.post(
-        'http://localhost:5000/api/auth/reset-password',
+        `${process.env.REACT_APP_API_URL}/api/auth/reset-password`,
         { oldPassword, newPassword },
         { headers: { Authorization: token } }
       );
