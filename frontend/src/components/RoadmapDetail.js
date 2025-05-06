@@ -7,7 +7,7 @@ const RoadmapDetail = () => {
   const [roadmap, setRoadmap] = useState(null);
 
   useEffect(() => {
-    axios.get(`http://localhost:5000/api/roadmaps/${specialization}`)
+    axios.get(`${process.env.REACT_APP_API_URL}/api/roadmaps/${specialization}`)
       .then(response => setRoadmap(response.data))
       .catch(err => console.log(err));
   }, [specialization]);
