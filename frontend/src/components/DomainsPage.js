@@ -12,7 +12,7 @@ const DomainsPage = () => {
   useEffect(() => {
     const fetchDomains = async () => {
       try {
-        const response = await axios.get(`http://localhost:5000/api/courses/${courseId}`);
+        const response = await axios.get(`${process.env.REACT_APP_API_URL}/api/courses/${courseId}`);
         setDomains(response.data.domains);
       } catch (err) {
         console.error('Failed to fetch domains:', err);
