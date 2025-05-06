@@ -7,4 +7,4 @@ const DomainSchema = new mongoose.Schema({
   pathways: [{ type: String }], // List of required steps,
 });
 
-module.exports = mongoose.model('Domain', DomainSchema);
+module.exports = mongoose.model('Domain', DomainSchema, 'Domains');
